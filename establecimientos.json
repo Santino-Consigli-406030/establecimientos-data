@@ -1,0 +1,670 @@
+{
+  "Establecimientos": [
+    {
+      "Codigo": "00406",
+      "Establecimiento": "HOSPITAL FLORENCIO DIAZ",
+      "NumeroEstablecimiento": "000",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "00409",
+      "Establecimiento": "CAPS GRAL SAVIO",
+      "NumeroEstablecimiento": "000",
+      "Zona": "0"
+    },
+    {
+      "Codigo": "00410",
+      "Establecimiento": "CAPS CENTRO INTEGRAL MAT INFANTIL CECILIA GRIERSON",
+      "NumeroEstablecimiento": "000",
+      "Zona": "0"
+    },
+    {
+      "Codigo": "00461",
+      "Establecimiento": "HOSPITAL DE PRONTA ATENCION CURA BROCHERO",
+      "NumeroEstablecimiento": "000",
+      "Zona": "0"
+    },
+    {
+      "Codigo": "00467",
+      "Establecimiento": "HOSPITAL DE PRONTA ATENCION COMIPAZ",
+      "NumeroEstablecimiento": "000",
+      "Zona": "0"
+    },
+    {
+      "Codigo": "00468",
+      "Establecimiento": "HOSPITAL PRONTA ATENCION SAN JORGE",
+      "NumeroEstablecimiento": "000",
+      "Zona": "0"
+    },
+    {
+      "Codigo": "00476",
+      "Establecimiento": "CENTRO DE SALUD Nº 19 SARGENTO CABRAL",
+      "NumeroEstablecimiento": "19",
+      "Zona": "1"
+    },
+    {
+      "Codigo": "00477",
+      "Establecimiento": "CENTRO DE SALUD Nº 34 Vª 9 DE JULIO",
+      "NumeroEstablecimiento": "34",
+      "Zona": "6"
+    },
+    {
+      "Codigo": "00478",
+      "Establecimiento": "CENTRO DE SALUD Nº 49 COLINAS DEL CERRO",
+      "NumeroEstablecimiento": "49",
+      "Zona": "5"
+    },
+    {
+      "Codigo": "00510",
+      "Establecimiento": "CENTRO DE SALUD Nº 01 GRAL MOSCONI",
+      "NumeroEstablecimiento": "01",
+      "Zona": "1"
+    },
+    {
+      "Codigo": "00511",
+      "Establecimiento": "CENTRO DE SALUD Nº 48 Vª AZALAIS ESTE",
+      "NumeroEstablecimiento": "48",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "00523",
+      "Establecimiento": "CENTRO DE SALUD Nº 33 ARGÜELLO",
+      "NumeroEstablecimiento": "33",
+      "Zona": "6"
+    },
+    {
+      "Codigo": "00525",
+      "Establecimiento": "CENTRO DE SALUD Nº 06 Vª RIVERA INDARTE",
+      "NumeroEstablecimiento": "06",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "00559",
+      "Establecimiento": "CENTRO DE SALUD Nº 15 REMEDIOS DE ESCALADA",
+      "NumeroEstablecimiento": "15",
+      "Zona": "1"
+    },
+    {
+      "Codigo": "00560",
+      "Establecimiento": "CENTRO DE SALUD Nº 17 Vª AZALAIS OESTE",
+      "NumeroEstablecimiento": "17",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "00578",
+      "Establecimiento": "CENTRO DE SALUD Nº 03 LOS PINOS",
+      "NumeroEstablecimiento": "03",
+      "Zona": "2"
+    },
+    {
+      "Codigo": "00579",
+      "Establecimiento": "CENTRO DE SALUD Nº 32 Bº YAPEYU",
+      "NumeroEstablecimiento": "32",
+      "zona": "2"
+    },
+    {
+      "Codigo": "00580",
+      "Establecimiento": "CENTRO DE SALUD Nº 07 PUEYRREDON",
+      "NumeroEstablecimiento": "07",
+      "Zona": "2"
+    },
+    {
+      "Codigo": "00581",
+      "Establecimiento": "CENTRO DE SALUD Nº 58 MALDONADO",
+      "NumeroEstablecimiento": "58",
+      "Zona": "2"
+    },
+    {
+      "Codigo": "00590",
+      "Establecimiento": "CENTRO DE SALUD Nº 10 COLONIA LOLA",
+      "NumeroEstablecimiento": "10",
+      "Zona":"2"
+    },
+    {
+      "Codigo": "00600",
+      "Establecimiento": "CENTRO DE SALUD Nº 11 Bº COLON",
+      "NumeroEstablecimiento": "11",
+      "Zona": "3"
+    },
+    {
+      "Codigo": "00601",
+      "Establecimiento": "CENTRO DE SALUD Nº 56 EMPALME",
+      "NumeroEstablecimiento": "56",
+      "Zona": "2"
+    },
+    {
+      "Codigo": "00602",
+      "Establecimiento": "CENTRO DE SALUD Nº 08 Bº ACOSTA",
+      "NumeroEstablecimiento": "08",
+      "Zona": "2"
+    },
+    {
+      "Codigo": "00621",
+      "Establecimiento": "CENTRO DE SALUD Nº 27 PILAR",
+      "NumeroEstablecimiento": "27",
+      "Zona": "3"
+    },
+    {
+      "Codigo": "00625",
+      "Establecimiento": "CENTRO DE SALUD Nº 12 FERREYRA",
+      "NumeroEstablecimiento": "12",
+      "Zona": "3"
+    },
+    {
+      "Codigo": "00660",
+      "Establecimiento": "CENTRO DE SALUD Nº 35 Vª REVOL",
+      "NumeroEstablecimiento": "35",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "00667",
+      "Establecimiento": "CENTRO DE SALUD Nº 37 JOSE IGNACIO DIAZ",
+      "NumeroEstablecimiento": "37",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "00668",
+      "Establecimiento": "CENTRO DE SALUD Nº 38 Bº URQUIZA",
+      "NumeroEstablecimiento": "38",
+      "Zona": "3"
+    },
+    {
+      "Codigo": "01399",
+      "Establecimiento": "CENTRO DE SALUD Nº 18 SAN JORGE",
+      "NumeroEstablecimiento": "18",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "01400",
+      "Establecimiento": "CENTRO DE SALUD Nº 02 LOS SAUCES",
+      "NumeroEstablecimiento": "02",
+      "Zona": "3"
+    },
+    {
+      "Codigo": "01401",
+      "Establecimiento": "CENTRO DE SALUD Nº 23 Bº ROSEDAL ANEXO",
+      "NumeroEstablecimiento": "23",
+      "Zona": "5"
+    },
+    {
+      "Codigo": "01402",
+      "Establecimiento": "CENTRO DE SALUD Nº 28 Bº LAS VIOLETAS",
+      "NumeroEstablecimiento": "28",
+      "Zona": "5"
+    },
+    {
+      "Codigo": "01403",
+      "Establecimiento": "CENTRO DE SALUD Nº 29 Vª SIBURO",
+      "NumeroEstablecimiento": "29",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "01404",
+      "Establecimiento": "CENTRO DE SALUD Nº 30 Vª PAEZ",
+      "NumeroEstablecimiento": "30",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "01405",
+      "Establecimiento": "CENTRO DE SALUD Nº 39 FERRER",
+      "NumeroEstablecimiento": "39",
+      "Zona":"4"
+    },
+    {
+      "Codigo": "01406",
+      "Establecimiento": "CENTRO DE SALUD Nº 40 Bº LAS FLORES",
+      "NumeroEstablecimiento": "40",
+      "Zona":"4"
+    },
+    {
+      "Codigo": "01407",
+      "Establecimiento": "CENTRO DE SALUD Nº 41 Bº Vª EL LIBERTADOR",
+      "NumeroEstablecimiento": "41",
+      "Zona":"4"
+    },
+    {
+      "Codigo": "01408",
+      "Establecimiento": "CENTRO DE SALUD Nº 42 COMERCIAL",
+      "NumeroEstablecimiento": "42",
+      "Zona":"4"
+    },
+    {
+      "Codigo": "01409",
+      "Establecimiento": "CENTRO DE SALUD Nº 44 Bº BELLA VISTA",
+      "NumeroEstablecimiento": "44",
+      "Zona":"4"
+    },
+    {
+      "Codigo": "01410",
+      "Establecimiento": "CENTRO DE SALUD Nº 45 CABO FARINA",
+      "NumeroEstablecimiento": "45",
+      "Zona":"4"
+    },
+    {
+      "Codigo": "01411",
+      "Establecimiento": "CENTRO DE SALUD Nº 46 Bº SANTA ISABEL",
+      "NumeroEstablecimiento": "46",
+      "Zona":"4"
+    },
+    {
+      "Codigo": "01412",
+      "Establecimiento": "CENTRO DE SALUD Nº 47 CNEL OLMEDO",
+      "NumeroEstablecimiento": "47",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "01413",
+      "Establecimiento": "CENTRO DE SALUD Nº 50 Bº Vª ADELA",
+      "NumeroEstablecimiento": "50",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "01414",
+      "Establecimiento": "CENTRO DE SALUD Nº 51 GUIÑAZU",
+      "NumeroEstablecimiento": "51",
+      "Zona": "1"
+    },
+    {
+      "Codigo": "01415",
+      "Establecimiento": "CENTRO DE SALUD Nº 52 Vª URQUIZA",
+      "NumeroEstablecimiento": "52",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "01416",
+      "Establecimiento": "CENTRO DE SALUD Nº 53 Bº INAUDI",
+      "NumeroEstablecimiento": "53",
+      "Zona":"4"
+    },
+    {
+      "Codigo": "01417",
+      "Establecimiento": "CENTRO DE SALUD Nº 55 LAS PALMAS",
+      "NumeroEstablecimiento": "55",
+      "Zona": "5"
+    },
+    {
+      "Codigo": "01424",
+      "Establecimiento": "CENTRO DE SALUD Nº 21 MARQUEZ DE SOBREMONTE",
+      "NumeroEstablecimiento": "21",
+      "Zona": "6"
+    },
+    {
+      "Codigo": "05505",
+      "Establecimiento": "CENTRO DE SALUD Nº 20 LAS MARGARITAS",
+      "NumeroEstablecimiento": "20",
+      "Zona": "6"
+    },
+    {
+      "Codigo": "05506",
+      "Establecimiento": "CENTRO DE SALUD Nº 22 ALBERDI SUD",
+      "NumeroEstablecimiento": "22",
+      "Zona": "5"
+    },
+    {
+      "Codigo": "05507",
+      "Establecimiento": "CENTRO DE SALUD Nº 24 Bº CUPANI",
+      "NumeroEstablecimiento": "24",
+      "Zona":"4"
+    },
+    {
+      "Codigo": "05508",
+      "Establecimiento": "CENTRO DE SALUD Nº 25 PADRE NASSER",
+      "NumeroEstablecimiento": "25",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "05509",
+      "Establecimiento": "CENTRO DE SALUD Nº 26 SANTA ANA",
+      "NumeroEstablecimiento": "26",
+      "Zona":"5"
+    },
+    {
+      "Codigo": "05511",
+      "Establecimiento": "CENTRO DE SALUD Nº 36 OÑA",
+      "NumeroEstablecimiento": "36",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "05512",
+      "Establecimiento": "CENTRO DE SALUD Nº 04 NUEVA ITALIA",
+      "NumeroEstablecimiento": "04",
+      "Zona": "1"
+    },
+    {
+      "Codigo": "05513",
+      "Establecimiento": "CENTRO DE SALUD Nº 43 GÜEMES",
+      "NumeroEstablecimiento": "43",
+      "Zona":"4"
+    },
+    {
+      "Codigo": "05514",
+      "Establecimiento": "CENTRO DE SALUD Nº 05 YOFRE NORTE",
+      "NumeroEstablecimiento": "05",
+      "Zona":"2"
+    },
+    {
+      "Codigo": "05515",
+      "Establecimiento": "CENTRO DE SALUD Nº 09 ALBERDI OESTE",
+      "NumeroEstablecimiento": "09",
+      "Zona": "5"
+    },
+    {
+      "Codigo": "05517",
+      "Establecimiento": "DIRECC DE ESP MEDICAS - ZONA NORTE",
+      "NumeroEstablecimiento": "",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "07040",
+      "Establecimiento": "CENTRO DE SALUD Nº 59 Bº CONGRESO",
+      "NumeroEstablecimiento": "59",
+      "Zona":"4"
+    },
+    {
+      "Codigo": "07041",
+      "Establecimiento": "CENTRO DE SALUD Nº 65 Bº SAN ROQUE",
+      "NumeroEstablecimiento": "65",
+      "Zona": "5"
+    },
+    {
+      "Codigo": "07043",
+      "Establecimiento": "CENTRO DE SALUD N° 67 BARRIO 16 DE NOVIEMBRE",
+      "NumeroEstablecimiento": "67",
+      "Zona": "6"
+    },
+    {
+      "Codigo": "07044",
+      "Establecimiento": "CENTRO DE SALUD N° 68 CARCANO",
+      "NumeroEstablecimiento": "68",
+      "Zona": "3"
+    },
+    {
+      "Codigo": "07045",
+      "Establecimiento": "CENTRO DE SALUD Nº 69 Bº GRAL ARENALES",
+      "NumeroEstablecimiento": "69",
+      "Zona":"2"
+    },
+    {
+      "Codigo": "07046",
+      "Establecimiento": "CENTRO DE SALUD N° 70 ESTACION FLORES",
+      "NumeroEstablecimiento": "70",
+      "Zona": "5"
+    },
+    {
+      "Codigo": "07047",
+      "Establecimiento": "CENTRO DE SALUD N° 71 COOPERATIVA EL ARCO",
+      "NumeroEstablecimiento": "71",
+      "Zona": "3"
+    },
+    {
+      "Codigo": "07048",
+      "Establecimiento": "CENTRO DE SALUD N° 72 LA FLORESTA NORTE",
+      "NumeroEstablecimiento": "72",
+      "Zona":"2"
+    },
+    {
+      "Codigo": "07049",
+      "Establecimiento": "CENTRO DE SALUD N° 73 PARQUE FUTURA",
+      "NumeroEstablecimiento": "73",
+      "Zona":"4"
+    },
+    {
+      "Codigo": "07051",
+      "Establecimiento": "CENTRO DE SALUD Nº 75 Bº CERVEROS",
+      "NumeroEstablecimiento": "75",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "07052",
+      "Establecimiento": "CENTRO DE SALUD N° 76 VILLA UNION",
+      "NumeroEstablecimiento": "76",
+      "Zona": "5"
+    },
+    {
+      "Codigo": "07053",
+      "Establecimiento": "CENTRO DE SALUD N° 78 PARQUE LICEO II SECC",
+      "NumeroEstablecimiento": "78",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "07054",
+      "Establecimiento": "CENTRO DE SALUD Nº 79 (EX-UPAS Nº 15) ALBERT SABIN",
+      "NumeroEstablecimiento": "79",
+      "Zona":"4"
+    },
+    {
+      "Codigo": "07055",
+      "Establecimiento": "CENTRO DE SALUD N° 80 RENACIMIENTO",
+      "NumeroEstablecimiento": "80",
+      "Zona":"2"
+    },
+    {
+      "Codigo": "07056",
+      "Establecimiento": "CENTRO DE SALUD Nº 81 SAN LORENZO",
+      "NumeroEstablecimiento": "81",
+      "Zona": "3"
+    },
+    {
+      "Codigo": "07057",
+      "Establecimiento": "CENTRO DE SALUD N° 82 VILLA ALLENDE PARQUE",
+      "NumeroEstablecimiento": "82",
+      "Zona": "6"
+    },
+    {
+      "Codigo": "07058",
+      "Establecimiento": "CENTRO DE SALUD N° 83 AMEGHINO NORTE",
+      "NumeroEstablecimiento": "83",
+      "Zona": "5"
+    },
+    {
+      "Codigo": "07059",
+      "Establecimiento": "CENTRO DE SALUD Nº 61 Bº EL CERRITO/AUTODROMO",
+      "NumeroEstablecimiento": "61",
+      "Zona": "6"
+    },
+    {
+      "Codigo": "07060",
+      "Establecimiento": "CENTRO DE SALUD N° 84 BAJO GRANDE",
+      "NumeroEstablecimiento": "84",
+      "Zona": "2"
+    },
+    {
+      "Codigo": "07061",
+      "Establecimiento": "CENTRO DE SALUD N° 85 PATRICIOS ESTE",
+      "NumeroEstablecimiento": "85",
+      "Zona":"1"
+    },
+    {
+      "Codigo": "07062",
+      "Establecimiento": "CENTRO DE SALUD N° 86 VILLA EL LIBERTADOR",
+      "NumeroEstablecimiento": "86",
+      "Zona":"4"
+    },
+    {
+      "Codigo": "07066",
+      "Establecimiento": "PAI CORDOBA - CENTRO AMBULATORIO PROV MISERICORDIA",
+      "NumeroEstablecimiento": "",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "10441",
+      "Establecimiento": "CENTRO DE SALUD Nº 87 (EX-UPAS Nº 24 SACCHI)",
+      "NumeroEstablecimiento": "87",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "10443",
+      "Establecimiento": "CENTRO DE SALUD N° 88 CHACRA DE LA MERCED",
+      "NumeroEstablecimiento": "88",
+      "Zona": "2"
+    },
+    {
+      "Codigo": "10464",
+      "Establecimiento": "UPA VILLA RIVADAVIA ANEXO",
+      "NumeroEstablecimiento": "",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "10466",
+      "Establecimiento": "UPAS Nº 28 ITUZAINGO ANEXO",
+      "NumeroEstablecimiento": "28",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "10692",
+      "Establecimiento": "DIRECC DE ESP MEDICAS - ZONA OESTE",
+      "NumeroEstablecimiento": "",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "10693",
+      "Establecimiento": "DIRECC DE ESP MEDICAS - ZONA CENTRO",
+      "NumeroEstablecimiento": "",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "10808",
+      "Establecimiento": "CENTRO DE SALUD Nº 91 (EX-UPAS Nº 29)",
+      "NumeroEstablecimiento": "91",
+      "Zona": "2"
+    },
+    {
+      "Codigo": "10834",
+      "Establecimiento": "CENTRO DE SALUD N° 93 VILLA LA TELA",
+      "NumeroEstablecimiento": "93",
+      "Zona":"5"
+    },
+    {
+      "Codigo": "10835",
+      "Establecimiento": "CENTRO DE SALUD N° 92 LOS CORTADEROS",
+      "NumeroEstablecimiento": "92",
+      "Zona": "6"
+    },
+    {
+      "Codigo": "10836",
+      "Establecimiento": "CENTRO DE SALUD N° 77 DON BOSCO",
+      "NumeroEstablecimiento": "77",
+      "Zona": "5"
+    },
+    {
+      "Codigo": "11002",
+      "Establecimiento": "CENTRO DE SALUD N° 94 PARQUE LICEO III SECC",
+      "NumeroEstablecimiento": "94",
+      "Zona": "1"
+    },
+    {
+      "Codigo": "11175",
+      "Establecimiento": "CAPS Bº ZEPA",
+      "NumeroEstablecimiento": "",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "11179",
+      "Establecimiento": "CAPS Bº CIUDAD EVITA",
+      "NumeroEstablecimiento": "",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "11188",
+      "Establecimiento": "CAPS Bº EL CHINGOLO",
+      "NumeroEstablecimiento": "",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "11190",
+      "Establecimiento": "CAPS CIUDAD SOL NACIENTE (EX Bº LA FRANCE)",
+      "NumeroEstablecimiento": "",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "11252",
+      "Establecimiento": "CENTRO DE SALUD Nº 63 PARQUE REPUBLICA",
+      "NumeroEstablecimiento": "63",
+      "Zona": "5"
+    },
+    {
+      "Codigo": "11253",
+      "Establecimiento": "CENTRO SALUD N° 95 CAMINO A 60 CUADRAS",
+      "NumeroEstablecimiento": "95",
+      "Zona": "3"
+    },
+    {
+      "Codigo": "11449",
+      "Establecimiento": "CENTRO DE SALUD PROF. FLORENTINO I. SEGURA",
+      "NumeroEstablecimiento": "",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "11450",
+      "Establecimiento": "DISPENSARIO Bº CIUDAD Vª RETIRO",
+      "NumeroEstablecimiento": "",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "11662",
+      "Establecimiento": "CENTRO DE SALUD Nº 60 Bº MARQUEZ ANEXO",
+      "NumeroEstablecimiento": "60",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "11684",
+      "Establecimiento": "CAPS Bº CIUDAD AMPLIACION FERREYRA",
+      "NumeroEstablecimiento": "",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "11687",
+      "Establecimiento": "CAPS Bº CIUDAD DE LOS CUARTETOS",
+      "NumeroEstablecimiento": "",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "11689",
+      "Establecimiento": "CAPS CIUDAD PARQUE DE LAS ROSAS",
+      "NumeroEstablecimiento": "",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "11692",
+      "Establecimiento": "CAPS DR CARLOS CARMELLO COTONARO - Vª OB.ANGELELLI",
+      "NumeroEstablecimiento": "",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "11770",
+      "Establecimiento": "CAPS Bº CIUDAD AMPLIACION CABILDO",
+      "NumeroEstablecimiento": "",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "11783",
+      "Establecimiento": "CAPS CIUDAD MI ESPERANZA",
+      "NumeroEstablecimiento": "",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "11786",
+      "Establecimiento": "UNIV NAC DE CORDOBA - DIRECC DE SALUD ESTUDIANTIL",
+      "NumeroEstablecimiento": "",
+      "Zona" : "0"
+    },
+    {
+      "Codigo": "11821",
+      "Establecimiento": "CENTRO DE SALUD N° 96 JOSE I DIAZ 1 SECC",
+      "NumeroEstablecimiento": "96",
+      "Zona": "3"
+    },
+    {
+      "Codigo": "11822",
+      "Establecimiento": "CENTRO DE SALUD N° 97 CABILDO",
+      "NumeroEstablecimiento": "97",
+      "Zona":"4"
+    },
+    {
+      "Codigo": "00000",
+      "Establecimiento": "HEROES DE MALVINAS N° 100",
+      "NumeroEstablecimiento": "100",
+      "Zona":"4"
+    }
+  ]
+}
